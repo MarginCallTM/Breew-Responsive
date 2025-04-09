@@ -16,7 +16,11 @@ Breew Responsive est un projet conçu pour démontrer mes compétences en dével
 ## 📦 Installation
 
 1. Clonez le repo avec Git :
+
    ```bash
    git clone https://github.com/ton-pseudo/Breew-Responsive.git
    ```
+
+2. npm install
+
 # Breew-Responsive
