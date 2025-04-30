@@ -1,21 +1,19 @@
 # Breew Responsive
 
 **Description**  
-Breew Responsive est un projet conçu pour démontrer mes compétences en développement front-end avec HTML et CSS. Ce projet met l'accent sur le responsive, s’adaptant aux différentes tailles d'écran grâce à l'utilisation de **Flexbox**.
-
+Breew Responsive is a project designed to demonstrate my front-end development skills with HTML and CSS. This project focuses on responsiveness, adapting to different screen sizes through the use of Flexbox.
 ---
 
-## 🔧 Technologies utilisées
+## 🔧 Technologies used
 
-- **HTML5** : pour la structure de la page
-- **CSS3** : pour la mise en forme et la réactivité
-- **Flexbox** : pour les mises en page flexibles
-
+- **HTML5** : Technologies used for pages structure
+- **CSS3** : For formatting and responsiveness
+- **Flexbox** : For flexible page layouts
 ---
 
 ## 📦 Installation
 
-1. Clonez le repo avec Git :
+1. Clone the repo with Git:
 
    ```bash
    git clone https://github.com/ton-pseudo/Breew-Responsive.git
